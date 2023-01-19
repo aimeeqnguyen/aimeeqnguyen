@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning Ruby...
 - 👯 I’m looking to collaborate on any projects!
 - 💬 Ask me about anything!
-- 📫 How to reach me: [aimeeqnguyen@outlook.com](aimeeeqnguyen@gmail.com) 
+- 📫 How to reach me: [aimeeeqnguyen@gmail.com](aimeeeqnguyen@gmail.com) 
 - 😄 Pronouns: she/her
 
